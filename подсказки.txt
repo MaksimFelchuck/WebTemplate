@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    width: 100%;
+    background: url('back.jpg')  no-repeat;;;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#для заднего фона
+
+	<script type="js.js"></script>
+	<script
+	  src="https://code.jquery.com/jquery-3.3.1.min.js"
+	  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+	  crossorigin="anonymous"></script>
+#для скриптов
